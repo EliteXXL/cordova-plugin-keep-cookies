@@ -1,0 +1,19 @@
+{
+  "name": "cordova-plugin-keep-cookies",
+  "version": "0.9.0",
+  "description": "Keeps track of any cookie and restores them at any start of the app",
+  "cordova": {
+    "id": "cordova-plugin-keep-cookies",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "android",
+    "cookie",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Giuliano Collacchioni",
+  "license": "MIT"
+}
