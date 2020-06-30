@@ -155,13 +155,6 @@ public class KeepCookies extends CordovaPlugin {
         } catch (Exception e) {
             Log.d(TAG, "Exception", e);
             e.printStackTrace();
-        } finally {
-            if (connection != null) {
-                connection.disconnect();
-                connection = null;
-            }
-        }
-        if (connection == null) {
             return null;
         }
 

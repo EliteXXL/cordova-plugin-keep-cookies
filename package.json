@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-keep-cookies",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "description": "Keeps track of any cookie and restores them at any start of the app",
   "cordova": {
     "id": "cordova-plugin-keep-cookies",
